@@ -1,0 +1,15 @@
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\SDL.dll
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\MgSimpleAnimation.exe
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\MgSimpleAnimation.pdb
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\Lidgren.Network.dll
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\Tao.Sdl.dll
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\obj\x86\Debug\MgSimpleAnimation.csprojResolveAssemblyReference.cache
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\obj\x86\Debug\MgSimpleAnimation.exe
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\obj\x86\Debug\MgSimpleAnimation.pdb
+c:\users\ale\documents\visual studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\Content\Player.png
+C:\Users\ale\Documents\Visual Studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\Content\001marioFlying.png
+C:\Users\ale\Documents\Visual Studio 2012\Projects\MgSimpleAnimation\MgSimpleAnimation\bin\WindowsGL\Debug\Content\001marioHitting.png
+C:\Users\ale\Documents\Visual Studio 2012\Projects\MgSimpleAnimation2\MgSimpleAnimation\obj\x86\Debug\MgSimpleAnimation.exe
+C:\Users\ale\Documents\Visual Studio 2012\Projects\MgSimpleAnimation2\MgSimpleAnimation\obj\x86\Debug\MgSimpleAnimation.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MgSimpleAnimation2", "MgSimpleAnimation\MgSimpleAnimation2.csproj", "{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		w64|x86 = w64|x86
+		win64|x86 = win64|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.Debug|x86.ActiveCfg = Debug|x86
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.Debug|x86.Build.0 = Debug|x86
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.Release|x86.ActiveCfg = Release|x86
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.Release|x86.Build.0 = Release|x86
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.w64|x86.ActiveCfg = Debug|x86
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.w64|x86.Build.0 = Debug|x86
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.win64|x86.ActiveCfg = Debug|x86
+		{E7E8BDF2-588A-4E0C-AC13-952D8D7B02F0}.win64|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
